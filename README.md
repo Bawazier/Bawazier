@@ -22,6 +22,9 @@ I am [Your Name], a [Your Profession] from planet [Your Home Planet]. I've been 
 
 ![Alt Text](https://i.imgur.com/FNuElf4.jpg)
 
+![Alt Text](https://media.giphy.com/media/WsWuvZCICpsXPoYOM2/giphy.gif)
+
+
 ## Interests and Hobbies
 
 When I'm not exploring the galaxy, I enjoy indulging in the peculiar pastimes of the Earthlings. Some of my favorites include:
